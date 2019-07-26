@@ -1,5 +1,4 @@
-{
-  [  
+{ 
     {
       "name": "Maximilian",
       "email": "maximilianreutter@gmail.com",
@@ -15,5 +14,4 @@
       "email": "javier.vue.js@gmail.com",
       "contacted": false
     }
-  ]
 }
