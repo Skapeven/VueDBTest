@@ -1,15 +1,15 @@
 {
-  name: "Maximilian",
-  email: "maximilianreutter@gmail.com",
-  contacted: false
+  "name": "Maximilian",
+  "email": "maximilianreutter@gmail.com",
+  "contacted": false
 },
 {
-  name: "Frodo",
-  email: "frodobaggins@gmail.com",
-  contacted: true
+  "name": "Frodo",
+  "email": "frodobaggins@gmail.com",
+  "contacted": true
 },
 {
-  name: "Javier",
-  email: "javier.vue.js@gmail.com",
-  contacted: false
+  "name": "Javier",
+  "email": "javier.vue.js@gmail.com",
+  "contacted": false
 }
