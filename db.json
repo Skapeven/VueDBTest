@@ -2,15 +2,18 @@
   "users": [
     {
       "name": "Maximilian",
-      "email": "maximilianreutter@gmail.com"
+      "email": "maximilianreutter@gmail.com",
+      "contacted": false
     },
     {
       "name": "Frodo",
-      "email": "mrbaggins@gmail.com"
+      "email": "mrbaggins@gmail.com",
+      "contacted": false
     },
     {
       "name": "Javier",
-      "email": "javier.vue.js@gmail.com"
+      "email": "javier.vue.js@gmail.com",
+      "contacted": false
     {
   ]
 }
