@@ -1,10 +1,19 @@
 {
-  "profile": [
+  "users": [
     {
-      "name": "typicode"
+      "name": "Maximilian",
+      "email": "maximilianreutter@gmail.com",
+      "contacted": false
     },
     {
-      "name": "max"
+      "name": "Frodo",
+      "email": "mrbaggins@gmail.com",
+      "contacted": false
+    },
+    {
+      "name": "Javier",
+      "email": "javier.vue.js@gmail.com",
+      "contacted": false
     }
   ]
 }
