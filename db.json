@@ -1,5 +1,10 @@
 {
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": [
+    {
+      "name": "typicode"
+    },
+    {
+      "name": "max"
+    }
+  ]
 }
